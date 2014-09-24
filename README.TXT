@@ -28,3 +28,5 @@ PLAYER - UP,DOWN,LEFT,RIGHT
 
 Bug Report:
 -None!
+
+check http://www.greenfoot.org/scenarios/6958 for the uploaded game
