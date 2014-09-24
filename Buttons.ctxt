@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=void\ imageSet(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment1.params=a\ b
+comment1.target=void\ imageSet2(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+numComments=2
